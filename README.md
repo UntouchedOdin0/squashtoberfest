@@ -35,7 +35,7 @@ Once you've identified an issue you think you can help out with, comment on the
 issue and mention you'd like to tackle it. Work with the project maintainers to
 get the issue assigned to you.
 
-#### How Do I Send A Pull Request?
+#### How do I Send A Pull Request?
 
 Each project is different. Your best bet is to read each project's contribution
 guidelines - these are usually documented in the project repo as
